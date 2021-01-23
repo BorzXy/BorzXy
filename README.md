@@ -1,9 +1,8 @@
-### Hi there 👋
+### Welcome to My Repo 👋
+Hello, My real name is Danilo
+I live in Jawa Timur, Indonesia & Tomsk, Russia
 
-<!--
-**daniloanantaa/daniloanantaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here some my bio:
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Python, C# and C++
