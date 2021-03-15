@@ -1,6 +1,6 @@
 ### Welcome to My Repo 👋
 Hello, My real name is Danilo
-I live in Jawa Timur, Indonesia & Tomsk, Russia
+I live in Kalimantan Timur, Indonesia & Tomsk, Russia
 
 Here some my bio:
 
