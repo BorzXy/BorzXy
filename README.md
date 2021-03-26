@@ -21,6 +21,7 @@ Here some my bio:
 ### Reach Here ✨
 Discord: BorzXy#0001
 
+### ===========================< Story >==============================
 ### Some Story
 I start programming when i play Growtopia Private Server, also my first program is batch file and then i learned JavaScript Because Discord Bot and then i learn another programmer
 language like C++, C#, etc
