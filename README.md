@@ -16,5 +16,5 @@ Here some my bio:
 - 💎 I know I have poor and inappropriate English and skills but that is not an obstacle for me to always be grateful and always struggle to reach my goals
 - 💎 Thanks for all my friend and who support me (idk who is) 💕
 
-### reach here
+### Reach Here ✨
 Discord: BorzXy#0001
