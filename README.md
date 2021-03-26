@@ -26,3 +26,5 @@ Discord: BorzXy#0001
 I start programming when i play Growtopia Private Server, also my first program is batch file and then i learned JavaScript Because Discord Bot and then i learn another programmer
 language like C++, C#, etc
 I learned these self taught and then ya story end lol
+
+### ===============================< End >=================================
