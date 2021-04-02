@@ -6,7 +6,7 @@ I live in Kalimantan Timur, Indonesia & Tomsk, Russia
 Here some my bio:
 
 - 🔭 I’m currently working on JavaScript, HTML, CSS and Python
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C#, C++, TS, Go and other
 - 📫 How to reach me: You can reach me at Discord
 - ⚡ Special Skill: I can go undercover in the dark
 - ⚡ Favorite Word: Boi 
