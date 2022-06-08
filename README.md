@@ -19,7 +19,7 @@ Here some my bio:
 
 ### ==========================< Reach Here >==========================
 ### Reach Here ✨
-Discord: BorzXy#0001
+Discord: BorzXy#2003
 
 ### ===========================< Story >=============================
 ### Some Story
